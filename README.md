@@ -120,5 +120,5 @@ or
 
 #### Mail the results
 - To: <TBD>
-- Topic: merge and rebase ex2
+- Topic: merge and rebase ex3
 - Body: What are the differences between master and feature/FeatureAB?
